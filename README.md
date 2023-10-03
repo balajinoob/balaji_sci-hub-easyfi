@@ -1,6 +1,5 @@
 ![Sci-Hub X Now!](icons/96x96.png)
 
-# Sci-Hub X Now! [![Supported Browsers](https://img.shields.io/badge/supported%20browsers-firefox%20|%20chrome%20|%20edge-informational?logo=pinboard&style=flat-square)](https://github.com/gchenfc/sci-hub-now/releases/latest) [![Repository Size](https://img.shields.io/github/repo-size/gchenfc/sci-hub-now)](https://github.com/gchenfc/sci-hub-now/releases/latest) [![Extension Version](https://img.shields.io/github/manifest-json/v/gchenfc/sci-hub-now?style=flat-square)](https://github.com/gchenfc/sci-hub-now/releases/latest) [![GitHub License](https://img.shields.io/github/license/gchenfc/sci-hub-now?style=flat-square)](https://github.com/gchenfc/sci-hub-now/releases/latest)
 
 Free access to academic papers with just a single click!<br>
 ---
